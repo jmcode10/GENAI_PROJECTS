@@ -1,1 +1,1 @@
-# GENAI_PROJECTS
+This repository contains generative ai project folders.
